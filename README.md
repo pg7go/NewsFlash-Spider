@@ -4,7 +4,7 @@
 
 
 ## 用到知乎了登录
-https://github.com/pg7go/Zhihu-Login-QR
+https://github.com/pg7go/Zhihu-Login-QR  
 已经整合进去了
 
 ## 使用方法
